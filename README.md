@@ -5,6 +5,8 @@ Return errors as values from your fetch calls and `text()` and `json()` methods 
 
 Example
 ```js
+import { safeFetch } from '@heymp/safe-fetch';
+
 export async function getTodos() {
   const [requestError, response] = await safeFetch('https://jsonplaceholder.typicode.com/todos');
   
