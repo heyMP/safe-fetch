@@ -1,5 +1,5 @@
 {
-  "name": "safe-fetch",
+  "name": "@heymp/safe-fetch",
   "version": "0.0.0",
   "description": "",
   "main": "index.js",
