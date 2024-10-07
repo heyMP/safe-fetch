@@ -25,12 +25,8 @@
   "scripts": {
     "dev": "tsc --watch",
     "build": "tsc",
-    "release": "npx @changesets/cli publish"
-  },
-  "wireit": {
-    "build": {
-      "command": "npm run build"
-    }
+    "release": "npx @changesets/cli publish",
+    "prepack": "npm run build"
   },
   "keywords": [
     "fetch"
