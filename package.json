@@ -1,6 +1,6 @@
 {
   "name": "@heymp/safe-fetch",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Return errors as values for fetch calls.",
   "main": "src/index.js",
   "module": "src/index.js",

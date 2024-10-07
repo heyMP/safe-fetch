@@ -1,5 +1,11 @@
 # @heymp/safe-fetch
 
+## 0.0.3
+
+### Patch Changes
+
+- 481b9a5: Chore: fix prepack step.
+
 ## 0.0.2
 
 ### Patch Changes
